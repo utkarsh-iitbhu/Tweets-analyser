@@ -1,0 +1,17 @@
+1. Setup your python environment and install dependencies
+
+2. Activate env, create your jupyter notebook and make a model which runs and predicts
+
+3. Create a file/folder directory in modular coding format using template.py
+
+4. Create your setup.py and add your info
+
+5. Update your requirements.txt | pip freeze > requirements.txt
+
+6. Just add "-e ." in your requirements.txt to build a package for it (Optional)
+
+7. Now code app.py file and use helper.py file to fill the functions
+
+8. Add html and css and compile and test \int 
+
+9. See the magic!!!
