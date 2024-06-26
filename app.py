@@ -6,7 +6,7 @@ from src.helper import pre_process
 app = Flask(__name__)
 
 # Load model
-model = load_model('model/sentiments_model.h5')
+model = load_model('model\model_lstm1.h5')
 
 # Define home route
 @app.route('/')
